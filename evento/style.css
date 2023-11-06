@@ -1,0 +1,21 @@
+*{ margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.contenedor1 {
+    display: flex;
+}
+.imagen {
+    flex: 1;
+    padding: 10px;
+}
+.texto {
+    flex: 1;
+    padding: 10px;
+}
+.imagen img {
+    max-width: 100%;
+    height: auto;
+}
+
+
